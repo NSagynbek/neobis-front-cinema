@@ -175,6 +175,7 @@ function createElement(data){
         movieCoverInner.append(posterImage,darkened,movieInfo);
         movie.append(movieCoverInner);
         moviesContainer.append(movie);
+
         let isChecked = false;
         let checkbox = document.getElementById(input.id);
          checkbox.addEventListener("change",function(){
