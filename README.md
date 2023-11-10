@@ -1,4 +1,5 @@
 Title: Neobis Front Cinema - Movie App
+Check out the live demo [here](https://NSagynbek.github.io/neobis-front-cinema).
 
 Description:
 Neobis Front Cinema is a sleek desktop movie app that seamlessly fetches and displays the top popular movies on the main page. Beyond that, it automatically organizes various movie categories, each in a separate page, 
